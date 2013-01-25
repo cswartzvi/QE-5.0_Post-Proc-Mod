@@ -28,8 +28,6 @@ c_defs.h
 fft_defs.h
 config.log
 config.status
-configure.msg
-Makefile
 make_blas.inc
 make_lapack.inc
 make_wannier90.sys
